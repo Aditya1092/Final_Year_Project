@@ -11,9 +11,7 @@ A flask web app made for scanning vulnerabilites on a website, network exploitat
 - Fast 🚀
 - Easy to use 🙂
 
-
-# Cloning
-- git clone https://github.com/krishpranav/vuln-scanner-flask
+ 
 
 # Installation
 ## macOS:
@@ -38,7 +36,7 @@ A flask web app made for scanning vulnerabilites on a website, network exploitat
 ## Credentials:
 ```
 username: admin
-password: admin
+password: pass
 ```
 
 ## Screenshots of the app:
